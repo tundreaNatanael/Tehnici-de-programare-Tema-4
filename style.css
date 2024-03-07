@@ -1,0 +1,28 @@
+.round{
+    border-radius: 16px;
+    width: 290px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.center{
+    margin: auto;
+    width: 50%;
+}
+
+.login{
+    background-color: lightblue;
+}
+
+.google{
+    background-color: red;
+    color: white;
+}
+.facebook{
+    background-color: blue;
+    color: white;
+}
+
+.last {
+    margin: auto;
+}
